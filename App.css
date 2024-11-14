@@ -1,0 +1,25 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input,
+textarea,
+select,
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+div {
+  margin: 20px 0;
+}
